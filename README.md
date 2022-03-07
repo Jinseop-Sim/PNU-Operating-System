@@ -1,7 +1,7 @@
 # <p align="center">Operating System</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=Linux&logoColor=BLACK">
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=Linux&logoColor=Black">
 </p>
 <br/>
 
